@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CabInvoiceGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-25T07:32:38" hostname="admin1-HP-EliteBook-Folio-9480m" time="0.003">
+<testsuite name="CabInvoiceGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-25T11:12:34" hostname="admin1-HP-EliteBook-Folio-9480m" time="0.006">
   <properties/>
-  <testcase name="givenDistanceAndTime_shouldReturnTotalFare" classname="CabInvoiceGeneratorTest" time="0.003"/>
+  <testcase name="givenMultipleRideData_shouldReturnInvoiceSummary" classname="CabInvoiceGeneratorTest" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
