@@ -23,4 +23,13 @@ public class InvoiceSummary {
     public int hashCode() {
         return 0;
     }
+
+    @Override
+    public String toString() {
+        return "InvoiceSummary{" +
+                "numOfRides=" + numOfRides +
+                ", totalFare=" + totalFare +
+                ", averageFare=" + averageFare +
+                '}';
+    }
 }
